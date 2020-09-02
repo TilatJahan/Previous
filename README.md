@@ -18,3 +18,5 @@ Walmart is an American operator of discount stores that is one of the world’s 
 ## Motivation
 
 I found this API interesting for my project, since walmart is one of the most visited store by families for their daily needs and I being a parent of three kids find it as an one-stop shop and a must visit on my list almost every week. In this fast paced world, these kind of applications gives the customers the options to shop by finding the nearest store locations and with the prior knowledge of the product availability and price it becomes less time consuming and accessible. Even though there are variety of options available for shopping at different stores, walmart still stands out and maintains a wide customer base with its various offers and commitment to satisfy all categories of customers.
+
+The following is the link for my Repository https://github.com/TilatJahan/neiu-cs-420
